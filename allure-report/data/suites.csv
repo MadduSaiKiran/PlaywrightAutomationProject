@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8120","TC001 - Custom Test and Fixture Creation Test","","2026-05-28","failed","2026-05-28","","CustomTestAndFixtureCreationTest.spec.js","",""
+"","7802","TC001 - WebShop E2E Test Using Page Object Model Test","","2026-05-28","failed","2026-05-28","","WebShopE2ETestPageObjectModel.spec.js","",""

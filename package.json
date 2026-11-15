@@ -1,0 +1,24 @@
+{
+  "name": "saikiranmaddu",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "saikiran",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests",
+    "SmokeTests": "npx playwright test --grep @Smoke",
+    "SafariNewConfig": "npx playwright test --config playwright.config1.js --project=safari"
+  },
+  "scripts": {},
+  "dependencies": {
+    "exceljs": "^3.4.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^25.8.0",
+    "allure-playwright": "^3.9.0"
+  }
+}
